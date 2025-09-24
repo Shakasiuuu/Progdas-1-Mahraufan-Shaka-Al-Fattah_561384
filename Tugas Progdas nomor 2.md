@@ -1,3 +1,4 @@
+#Program kasir menggunakan kombinasi iterasi dan seleksi
 ```cpp
 #include <iostream>
 #include <iomanip>
